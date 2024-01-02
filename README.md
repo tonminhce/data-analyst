@@ -1,4 +1,8 @@
-# Project Analysis Notebook
+# Project Analysis Notebook (updated)
+
+## Feedback from the lecturer
+![image](https://github.com/tonminhce/data-analyst/assets/87883380/b95cc028-9c54-4505-968d-3f766d8051bb)
+
 
 ## Overview
 This repository contains a Jupyter notebook (`final.ipynb`) that demonstrates an in-depth analysis of programming language data sourced from multiple CSV files. The notebook includes data loading, cleaning, merging, and detailed analysis, resulting in key findings regarding programming language activity and trends.
