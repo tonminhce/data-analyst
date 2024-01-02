@@ -1,6 +1,9 @@
 # Project Analysis Notebook (updated)
+## About the project
+![image](https://github.com/tonminhce/data-analyst/assets/87883380/baf715be-e25d-40f5-b867-6bc682b16d3b)
 
-## Feedback from the lecturer
+
+## Feedback from the Profressor for this notebook
 ![image](https://github.com/tonminhce/data-analyst/assets/87883380/b95cc028-9c54-4505-968d-3f766d8051bb)
 
 
