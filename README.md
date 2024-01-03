@@ -1,4 +1,4 @@
-# Project Analysis Notebook (updated)
+# Project Analysis Notebook
 ## About the project
 ![image](https://github.com/tonminhce/data-analyst/assets/87883380/baf715be-e25d-40f5-b867-6bc682b16d3b)
 
@@ -53,16 +53,3 @@ Our analysis sought to uncover if there's a connection between specific programm
 The final part of our analysis looked at the popularity of programming languages in relation to repository statistics such as stars, forks, and watchers.
 
 **Note**: For detailed figures, graphs, and discussions, please refer to the respective sections of the notebook.
-
-## Usage
-To run this notebook, make sure you have a Python environment with the necessary libraries installed. Clone this repository and execute the notebook in Jupyter to replicate the analysis.
-
-## Contribute
-Contributions to improve the notebook or extend the analysis are welcome. Please feel free to fork the repository and submit pull requests.
-
-## Contact
-If you have any questions or comments about this notebook, please open an issue in this repository.
-
----
-
-**Reminder**: This notebook is for demonstration purposes only and is part of a larger data analysis project. The findings are based on the data available up to the last update and are subject to change with new data.
